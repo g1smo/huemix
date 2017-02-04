@@ -1,0 +1,21 @@
+# HUEMIX
+
+Kaoticni snemalnik/predvajalnik v command line
+
+Najprej pozenes snemalnik
+#+BEGIN_SRC sh
+./snemaj.sh`
+#+END_SRC
+Lahko kaj poves v mikrofon.
+
+Nato pozenes predvajalnik, v drugem terminalu
+#+BEGIN_SRC sh
+./predvajaj.sh
+#+END_SRC
+
+
+
+Za pocistit stare zvoke pozenes 
+#+BEGIN_SRC sh
+./pocisti.sh
+#+END_SRC
