@@ -1,4 +1,4 @@
-# HUEMIX
+#+TITLE: HUEMIX
 
 Kaoticni snemalnik/predvajalnik v command line
 
