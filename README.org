@@ -1,6 +1,6 @@
 #+TITLE: HUEMIX
 
-Kaoticni snemalnik/predvajalnik v command line
+* Kaoticni snemalnik/predvajalnik v command line
 
 Najprej pozenes snemalnik
 #+BEGIN_SRC sh
@@ -19,3 +19,10 @@ Za pocistit stare zvoke pozenes
 #+BEGIN_SRC sh
 ./pocisti.sh
 #+END_SRC
+
+* Downloadanje mp3 posntekov z rš.si
+  Ena skriptica, ki bo pobrala vse posnetke ene oddaje
+
+* Kaj se da delat z zvokom v komendlajnu
+  - konverzije
+    - na veliki skali s pomočjo 
