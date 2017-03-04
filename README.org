@@ -23,6 +23,9 @@ Za pocistit stare zvoke pozenes
 * Downloadanje mp3 posntekov z rš.si
   Ena skriptica, ki bo pobrala vse posnetke ene oddaje
 
+  - imela bi tudi možnost flaga -p, ki posnetke tudi zažene
+  - in flag -r, ki jih izbriše (po predvajanju)
+
 * Kaj se da delat z zvokom v komendlajnu
   - konverzije
-    - na veliki skali s pomočjo 
+    - na veliki skali s pomočjo *
