@@ -1,10 +1,12 @@
 #!/bin/bash
 
-echo "predvajaj"
+echo "predvajam"
 
 while [ true ]; do
   fajl=$(shuf -n1 -e sempl*.wav)
-  aplay $fajl &
+
+  echo "Predvajam $fajl"
+  play $fajl &>2 &
 
   let "spanje = $RANDOM % 3"
   sleep $spanje
