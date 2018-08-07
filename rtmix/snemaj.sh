@@ -4,7 +4,7 @@ echo "snemam"
 
 num=0
 while [ true ]; do
-  rec sempl$num.wav &>2 &
+  rec sempl$num.wav >/dev/null &
   pid=$!
   dolzina=$(( $RANDOM % 4 + 1))
   echo "sempl $num: dolzina: $dolzina sekund"
